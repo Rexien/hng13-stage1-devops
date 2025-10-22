@@ -1,3 +1,0 @@
-Enter Git repository HTTPS URL (e.g. https://github.com/user/repo.git): Enter Personal Access Token (input hidden): 
-Enter remote SSH username: Enter remote server IP or hostname: Enter container internal port (e.g. 3000): 2025-10-22 18:58:42 [ERROR] SSH key not found at /c/Users/ZBOOK/.ssh/id_rsa
-2025-10-22 18:58:42 [ERROR] Script exited with code 3. Check deploy_2025-10-22_185517.log for details.
